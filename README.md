@@ -9,7 +9,7 @@ The software combines an interactive graphical interface (PyQt5) with a computat
 Analyzing AFM force–distance curves typically requires manual preprocessing (offset correction, calibration, detection of contact point, alignment to a reference curve) and curve fitting.  
 This tool was created to streamline the entire workflow. It enables researchers and students to go from raw AFM text/csv files to reproducible results (contact depth, adhesion forces, slopes, apparent Young’s modulus) in a single, interactive environment.
 
-The program was originally developed in the context of a bachelor thesis focusing on contact mechanics models (Hertz, DMT, JKR) and their applicability in the presence of adhesion forces.
+The program was originally developed in the context of a bachelor thesis (carolina's one, not mine) focusing on contact mechanics models (Hertz, DMT, JKR) and their applicability in the presence of adhesion forces.
 
 ---
 
