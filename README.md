@@ -83,10 +83,6 @@ Where possible, computations are vectorized (NumPy/Pandas), enabling fast proces
 
 ---
 
-## Usage
-
-Run the main script:
-
 ## GUI actions
 
 - **Settings** : edit piezo sensitivity, spring constant, calibration coefficient  
@@ -110,5 +106,4 @@ The tool was created during a bachelor thesis on AFM force–distance analysis a
 During the development of the graphical interface, PyQt5 was learned via the tutorials at:  
 [pythonguis.com/tutorials](https://www.pythonguis.com/tutorials)
 
-```bash
-python FDC_fit2.py
+
